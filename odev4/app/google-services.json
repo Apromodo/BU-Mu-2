@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789697792533",
+    "firebase_url": "https://kayaunal3-9aa0a.firebaseio.com",
+    "project_id": "kayaunal3-9aa0a",
+    "storage_bucket": "kayaunal3-9aa0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789697792533:android:3629d05d421cace5fc1c1c",
+        "android_client_info": {
+          "package_name": "com.example.odev3kayaunal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789697792533-g5lj67hc2lj4j2pkjf99jpb3egskurrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGx4KRVZ0I42rFiqiZztMPjL-HWYWWcaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789697792533-g5lj67hc2lj4j2pkjf99jpb3egskurrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

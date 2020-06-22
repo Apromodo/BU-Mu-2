@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299968809122",
+    "firebase_url": "https://finalkayaunal.firebaseio.com",
+    "project_id": "finalkayaunal",
+    "storage_bucket": "finalkayaunal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299968809122:android:dce026c37ec678b4aa2ffb",
+        "android_client_info": {
+          "package_name": "com.example.finalkayaunal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299968809122-95r4rhfj5ub27skk77ls1pepqncuadl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dZ5HWYWYSM4qsZbNsBxo6ZEnLZevqGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299968809122-95r4rhfj5ub27skk77ls1pepqncuadl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
